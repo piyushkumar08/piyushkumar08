@@ -1,10 +1,10 @@
 ### Hi there👋! I'm Piyush Kumar.
-  - Bachelor of Computer Science honours graduate from Hansraj College, Delhi University.
-  - I'm currently doing PG program in Data Science from Purdue University, USA.
+  - 👨‍🎓 Bachelor of Computer Science honours graduate from _Hansraj College, Delhi University_.
+  - 👨‍🎓 I'm currently doing _PG program in Data Science_ from _Purdue University, USA_.
   - _I'm passionate about using data to_
-     - understand cause and effect
-     - extract decision making insights
-     - make world a better place
+     - _understand cause and effect_ 👨‍💻
+     - _extract decision making insights_ 📈
+     - _make world a better place_✨
      
 - ### How to reach me 📫: 
   - [LinkedIn](https://www.linkedin.com/in/piyush-kumar-708826180)

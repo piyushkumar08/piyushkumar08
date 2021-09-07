@@ -4,7 +4,7 @@
   - _I'm passionate about using data to_
      - _understand cause and effect_ 👨‍💻
      - _extract decision making insights_ 📈
-     - _make world a better place_✨
+     - _make world a better place_ ✨
      
 - ### How to reach me 📫: 
   - [LinkedIn](https://www.linkedin.com/in/piyush-kumar-708826180)

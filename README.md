@@ -8,8 +8,6 @@
      
 - ### How to reach me 📫: 
   - [LinkedIn](https://www.linkedin.com/in/piyush-kumar-708826180)
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="piyush-kumar-708826180" data-       version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/piyush-kumar-708826180?trk=profile-badge">Piyush Kumar</a></div>
-              
   - Email: piyushkumar1508@gmail.com
 
 

@@ -1,6 +1,7 @@
 ### Hi there👋! I'm Piyush Kumar.
-  - 👨‍🎓 Bachelor of Computer Science honours graduate from _Hansraj College, Delhi University_.
-  - 👨‍🎓 I'm currently doing _PG program in Data Science_ from _Purdue University, USA_.
+  - 👨‍🎓 Bachelor of Computer Science honours graduate from _University of Delhi_.
+  - 👨‍🎓 Currently pursuing: Master of Operational Research from _University of Delhi_.
+  - 👨‍🎓 Also doing _PG program in Data Science_ from _Purdue University, USA_ (online bootcamp).
   - _I'm passionate about using data to_
      - _understand cause and effect_ 👨‍💻
      - _extract decision making insights_ 📈

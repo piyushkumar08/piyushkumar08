@@ -1,10 +1,10 @@
 ### Hi there👋! I'm Piyush Kumar.
-  - 👨‍🎓 Bachelor of Computer Science honours graduate from _Hansraj College, University of Delhi_.
-  - 👨‍🎓 Currently pursuing: Master of Operational Research from _University of Delhi_.
+  - 👨‍🎓 Bachelor's in Computer Science honours graduate from _Hansraj College, University of Delhi_.
+  - 👨‍🎓 Master of Operational Research from _University of Delhi_.
   - 👨‍🎓 Completed _PG program in Data Science_ from _Purdue University, USA_ (Online Bootcamp).
      
 - ### How to reach me 📫: 
-  - Email: piyushkumar.du.or.23@gmail.com
+  - Email: piyushkumar1508@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
